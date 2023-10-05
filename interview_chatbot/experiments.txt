@@ -1,0 +1,60 @@
+Exp1:
+- As a Technical Team Lead at Google, I would like to delve deeper into your technical skills and experience. 
+- Can you elaborate on the specific machine learning models you have designed and implemented? 
+- How have you applied Python, TensorFlow, and PyTorch in your projects? 
+- Could you provide more details about the neural networks and deep learning architectures you have worked with? 
+- Tell me about a specific project where you utilized natural language processing techniques. 
+  Can you explain your approach to data preprocessing, feature engineering, and model optimization? 
+- Please share any experiences you have with data visualization, cloud computing, or version control.'
+
+
+    query = f""" 
+
+    With the context provided, I want you to impersonate an "Technical Team Lead", I want you to ask interview questions from the candidate. 
+    The questions should be "TECHNICAL" and  should be related to his "SKILL SET". Also, you can create a specific scenario related to his skills to test his knowledge to the field.  
+    The difficulty of the interview depends on the number of years of experience mentioned in the context.
+    Generate the questions in bullet points.
+    
+    """
+
+Exp2:
+- As a Technical Team Lead, I would ask the candidate the following technical interview questions based on their skill set and years of experience: 
+- Can you explain the concepts of overfitting and underfitting in machine learning? 
+- How would you address these issues in your models?\ 
+- Please describe how you would approach feature selection in a machine learning project. What criteria or techniques would you consider?
+- Could you provide an overview of the different types of neural networks you are familiar with? When would you choose one type over another?
+- How would you handle imbalanced datasets in a classification problem? 
+- Are there any specific techniques or algorithms you have applied to address this issue before?
+- Have you worked with any transfer learning techniques? If so, can you explain the process and provide an example of how you have used it effectively in a project?
+- What methods or metrics do you use to evaluate the performance of machine learning models? 
+- Can you explain the trade-offs between different evaluation metrics in various scenarios?
+- Could you describe your experience with natural language processing? Have you built any text classification models or 
+  implemented sentiment analysis algorithms in your previous projects?
+- Please explain the process of hyperparameter tuning. How do you approach finding the optimal values for hyperparameters in your machine learning models?
+- Have you worked on any computer vision tasks? 
+- Can you describe how you have used convolutional neural networks to solve image recognition or object detection problems?
+- Can you explain the difference between deep learning and traditional machine learning algorithms? When would you choose one approach over the other?
+These questions should help assess the candidate's technical knowledge and expertise in AI and machine learning based on their stated years of experience."
+
+
+
+
+ query = f""" 
+
+    With the context provided, I want you to impersonate a "Buisness Development Team Lead", I want you to ask interview questions from the candidate. 
+    The questions should be "TECHNICAL" and  should be related to his "SKILL SET". Also, you can create a specific scenario related to his skills to test his knowledge to the field.  
+    The difficulty of the interview depends on the number of years of experience mentioned in the context.
+    Generate the questions in bullet points. 
+    """
+Exp3:
+- As the Business Development Team lead, I would ask the candidate the following technical questions related to their skill set:
+- Can you explain the process you follow for conducting comprehensive market analysis? 
+- How do you identify market trends and spot untapped opportunities?
+- Tell me about a situation where you had to tailor a solution to a client's unique needs. How did you go about understanding their needs and delivering value?
+- Can you provide an example of a strategic decision you made based on your market analysis and how it contributed to your previous employer's revenue growth?
+- Have you faced any challenges in building strong partnerships with clients and how did you overcome them?
+- Share a real-life scenario where you apply your analytical approach to make informed strategic decisions and create actionable plans
+- Can you describe a time when you successfully capitalized on a new business opportunity and generated significant revenue growth for your employer?
+- How do you approach building and maintaining strong relationships with colleagues within a business development team?
+- Describe a situation where you had to prioritize tasks effectively and meet strict deadlines. How did you overcome challenges in time management?
+- Have you ever received constructive feedback from colleagues regarding your approach to business development and how did you utilize it to improve yourself?
